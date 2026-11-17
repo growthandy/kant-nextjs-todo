@@ -1,6 +1,6 @@
 # 회원 전용 Todo — Next.js + Supabase
 
-- 배포: (Vercel 배포 후 주소 기입)
+- 배포: https://kant-todo-nextjs.vercel.app/
 - 이전 과제(JavaScript Todo)를 Next.js App Router 로 옮기고 회원가입·로그인을 붙였습니다.
 
 ## 기술 스택
